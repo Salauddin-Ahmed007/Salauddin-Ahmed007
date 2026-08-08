@@ -21,15 +21,14 @@ I am Salauddin Ahmed, a front-end web developer. I am interested in creating err
 <h3>💥 Contact me 💥</h3>
 
 <p>
-<!-- Gmail Badge -->
-<a href="salauddincomputer007@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-  
-  <!-- Facebook Badge -->
-  <a href="https://web.facebook.com/?_rdc=1&_rdr#" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+<!-- Email Badge -->
+[![Email](https://img.shields.io/badge/Email-salauddincomputer007%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salauddincomputer007@gmail.com)
+
+<!-- Facebook Badge -->
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/?_rdc=1&_rdr#)
+
+<!-- LinkedIn Badge -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salauddin-ahmed-a906b3196)
 
   <!-- Instagram Badge -->
   <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
@@ -39,11 +38,6 @@ I am Salauddin Ahmed, a front-end web developer. I am interested in creating err
   <!-- Twitter / X Badge -->
   <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-
-  <!-- LinkedIn Badge -->
-  <a href="salauddin-ahmed-a906b3196" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <!-- YouTube Badge -->
