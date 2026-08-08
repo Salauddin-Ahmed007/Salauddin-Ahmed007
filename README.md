@@ -18,3 +18,6 @@ I am Salauddin Ahmed, a front-end web developer. I am interested in creating err
 ✅ Photoshop / Illustrator
 
 💥**Contact me**💥
+🌐 https://www.facebook.com/?_rdc=2&_rdr#
+💼 in/salauddin-ahmed-a906b3196
+✉️ Email: salauddincomputer007@gmail.com
