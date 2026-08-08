@@ -8,8 +8,7 @@ We are at your side to provide web development services.
 
 I am Salauddin Ahmed, a front-end web developer. I am interested in creating error free websites with 100% client satisfaction. I love to learn and share my knowledge with everyone. I love to solve real life problems. I am strategic and goal-oriented and always work with an end goal in mind. I love to do quality work and maintain excellent communication. I enjoy working with HTML, CSS, JavaScript, React. To know more about me visit my portfolio website, thanks.
 
-🔥**Skills & Experiance**🔥
-
+<h3>🔥 Skills & Experiance 🔥</h3> br
 ✅ HTML
 ✅ CSS
 ✅ JavaScript
@@ -17,11 +16,16 @@ I am Salauddin Ahmed, a front-end web developer. I am interested in creating err
 ✅ Bootstrap
 ✅ Photoshop / Illustrator
 
-💥**Contact me**💥
 
-<h3>☕ Connect with me:</h3>
+
+<h3>💥 Contact me 💥</h3>
 
 <p>
+<!-- Gmail Badge -->
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+  
   <!-- Facebook Badge -->
   <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
@@ -37,13 +41,13 @@ I am Salauddin Ahmed, a front-end web developer. I am interested in creating err
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 
-  <!-- YouTube Badge -->
-  <a href="https://youtube.com/YOUR_YOUTUBE_CHANNEL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-
   <!-- LinkedIn Badge -->
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+
+  <!-- YouTube Badge -->
+  <a href="https://youtube.com/YOUR_YOUTUBE_CHANNEL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"    alt="YouTube" />
+  </a>
+  </p>
