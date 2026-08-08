@@ -15,9 +15,11 @@ I am Salauddin Ahmed, a front-end web developer. I am interested in creating err
 ✅ Bootstrap <br>
 ✅ Photoshop / Illustrator 
 <br>
+<br>
 
 💥 Contact me 💥 
-<br> 
+<br>
+<br>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=salauddincomputer007@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
