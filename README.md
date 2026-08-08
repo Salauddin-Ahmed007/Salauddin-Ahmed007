@@ -18,9 +18,9 @@ I am Salauddin Ahmed, a front-end web developer. I am interested in creating err
 
 ### 💥 Contact me 💥
 <p align="center">
-  <a href="mailto:salauddincomputer007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=salauddincomputer007@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
   <a href="https://web.facebook.com/SalauddinAhmed007" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
