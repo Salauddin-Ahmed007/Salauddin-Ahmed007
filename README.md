@@ -17,16 +17,18 @@ I am Salauddin Ahmed, a front-end web developer. I am interested in creating err
 ✅ Photoshop / Illustrator
 
 ### 💥 Contact me 💥
-<p>
-  <a href="mailto:salauddincomputer007@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  
-  <a href="https://facebook.com/https://web.facebook.com/?_rdc=1&_rdr#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  
-  <a href="https://linkedin.com/in/in/salauddin-ahmed-a906b3196" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  
-  <a href="https://youtube.com/YOUR_YOUTUBE" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<p align="center">
+  <a href="mailto:salauddincomputer007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://web.facebook.com/SalauddinAhmed007" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.linkedin.com/in/salauddin-ahmed-a906b3196" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
 </p>
+
