@@ -18,6 +18,32 @@ I am Salauddin Ahmed, a front-end web developer. I am interested in creating err
 ✅ Photoshop / Illustrator
 
 💥**Contact me**💥
-🌐 https://www.facebook.com/?_rdc=2&_rdr#
-💼 in/salauddin-ahmed-a906b3196
-✉️ Email: salauddincomputer007@gmail.com
+
+<h3>☕ Connect with me:</h3>
+
+<p>
+  <!-- Facebook Badge -->
+  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+
+  <!-- Instagram Badge -->
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <!-- Twitter / X Badge -->
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+
+  <!-- YouTube Badge -->
+  <a href="https://youtube.com/YOUR_YOUTUBE_CHANNEL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+
+  <!-- LinkedIn Badge -->
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
