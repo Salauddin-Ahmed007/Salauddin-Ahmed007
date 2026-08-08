@@ -22,12 +22,12 @@ I am Salauddin Ahmed, a front-end web developer. I am interested in creating err
 
 <p>
 <!-- Gmail Badge -->
-<a href="mailto:salauddincomputer007@gmail.com" target="_blank">
+<a href="salauddincomputer007@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
   
   <!-- Facebook Badge -->
-  <a href="https://facebook.com/https://web.facebook.com/?_rdc=1&_rdr#" target="_blank">
+  <a href="https://web.facebook.com/?_rdc=1&_rdr#" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 
@@ -42,7 +42,7 @@ I am Salauddin Ahmed, a front-end web developer. I am interested in creating err
   </a>
 
   <!-- LinkedIn Badge -->
-  <a href="https://linkedin.com/in/in/salauddin-ahmed-a906b3196" target="_blank">
+  <a href="salauddin-ahmed-a906b3196" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
